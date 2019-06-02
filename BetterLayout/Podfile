@@ -1,0 +1,28 @@
+platform :ios, '11.0'
+use_frameworks!
+
+def shared_pods
+    pod 'Reusable'
+    pod 'PromiseKit'
+    pod 'RAMAnimatedTabBarController', :git => 'https://github.com/swiftbro/animated-tab-bar.git'
+    pod 'XLPagerTabStrip', '~> 8.1'
+    pod 'Charts'
+    pod 'SwiftGen', '~> 6.0'
+    pod 'SwiftDate', '~> 5.0'
+    pod 'Nuke', '~> 7.0'
+    pod 'Cosmos', '~> 18.0'
+end
+
+def testing_pods
+    pod 'Quick'
+    pod 'Nimble'
+end
+
+target 'BetterLayout' do
+  	shared_pods
+  	pod 'Moya'
+end
+
+target 'BetterLayoutTests' do
+    testing_pods
+end
