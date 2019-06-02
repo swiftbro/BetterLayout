@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  BetterLayout
+ //
+ //  Created by Vlad Che on 7/2/19.
+ //  Copyright © 2019 Swift Bro. All rights reserved.
+*/
+
+//Tab bar
+"tab.market" = "Market";
+"tab.portfolio" = "Portfolio";
+"tab.search" = "Search";
+
+//Market tabs
+"market.today" = "Portfolio";
+"market.cryptocurrencies" = "Cryptocurrencies";
+"market.stocks" = "Stocks";
+"market.forex" = "Forex";
+
+//Portfolio tabs
+"portfolio.my" = "My Portfolio";
+"portfolio.watch" = "My Watchlist";
+
+//Symbol details
+"charts.nodata" = "No data";
+"button.close" = "Close";
+
+//Today
+"label.low" = "Low";
+"label.high" = "High";
+"label.up" = "UP";
+"label.down" = "DOWN";
+"label.day" = "Today";
+"label.week" = "Past week";
+"label.month" = "Past month";
+"label.quarter" = "Past 3 months";
+"label.year" = "Past year";
+"label.all" = "All time";
+"period.day" = "1D";
+"period.week" = "1W";
+"period.month" = "1M";
+"period.quarter" = "3M";
+"period.year" = "1Y";
+"period.all" = "ALL";
+
+//Search
+"search.placeholder" = "Search";
+
