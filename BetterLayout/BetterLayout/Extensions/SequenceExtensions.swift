@@ -1,9 +1,9 @@
 //
 //  CollectionExtensions.swift
-//  Trading
+//  BetterLayout
 //
-//  Created by Vladimir Kravchenko on 3/6/19.
-//  Copyright © 2019 Digicode. All rights reserved.
+//  Created by Vlad Che on 7/2/19.
+//  Copyright © 2019 Swift Bro. All rights reserved.
 //
 
 import Foundation

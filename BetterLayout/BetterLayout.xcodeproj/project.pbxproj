@@ -743,7 +743,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1020;
 				LastUpgradeCheck = 1020;
-				ORGANIZATIONNAME = Digicode;
+				ORGANIZATIONNAME = Swiftbro;
 				TargetAttributes = {
 					DA920E5022A3862700D57B6D = {
 						CreatedOnToolsVersion = 10.2;
@@ -1222,7 +1222,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digicode.BetterLayout;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftbro.BetterLayout;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1241,7 +1241,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digicode.BetterLayout;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftbro.BetterLayout;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1262,7 +1262,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digicode.BetterLayoutTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftbro.BetterLayoutTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1284,7 +1284,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digicode.BetterLayoutTests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftbro.BetterLayoutTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1304,7 +1304,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digicode.BetterLayoutUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftbro.BetterLayoutUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -1324,7 +1324,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.digicode.BetterLayoutUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.swiftbro.BetterLayoutUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
