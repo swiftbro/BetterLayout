@@ -1,9 +1,9 @@
 //
 //  FontExtension.swift
-//  Trading
+//  BetterLayout
 //
-//  Created by Vlad Che on 2/24/19.
-//  Copyright © 2019 Digicode. All rights reserved.
+//  Created by Vlad Che on 7/2/19.
+//  Copyright © 2019 Swift Bro. All rights reserved.
 //
 
 import UIKit
